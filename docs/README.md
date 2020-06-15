@@ -47,7 +47,7 @@
 ---
 
 ## 三、课设安排
-![TimeTable](./pictures/TimeTable.png)
+![TimeTable](./pictures/RSP2020.png)
 
 [**返回目录**](#目录)
 ---
